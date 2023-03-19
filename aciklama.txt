@@ -1,0 +1,9 @@
+Projeye depremzede kardeslerimizin yardimlarin azaldigini belirttikleri videolardan sonra baslamaya karar verdim. 
+Bir cok kisi ayni seyleri soyluyor ama ne yazikki zaman gectikce dikkatimiz dagiliyor ve yardimlar azaliyor. 
+Umarim ihtiyaclara dikkat cekmek konusunda bir faydasi olur. 
+
+Ihtiyac sahipleri, istedikleri gibi ihtiyaclari yazabilecekler. Talepler bir veri tabaninda tutulacak. 
+Ve bu talepler bir arayuz tarafindan hepimiz tarafindan gozlemlenebilecek. 
+
+Database tasarimi asagidaki linkten gorulebilir. 
+https://dbdiagram.io/d/6416ff0c296d97641d890ea1
