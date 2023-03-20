@@ -7,3 +7,5 @@ Ve bu talepler bir arayuz tarafindan hepimiz tarafindan gozlemlenebilecek.
 
 Database tasarimi asagidaki linkten gorulebilir. 
 https://dbdiagram.io/d/6416ff0c296d97641d890ea1
+
+Basit User Diagram 
